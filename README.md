@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-Machine Learning Project in Python created to find out the key drivers that lead to churn and predict the customer churn.
+Machine Learning Project in Python created to recommend hotels to Expedia's customers.
 Project included: 
   - Breakdown Problem Statement
   - EDA & database cleaning
