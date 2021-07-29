@@ -54,6 +54,7 @@ The Jaccard similarity index (sometimes called the Jaccard similarity coefficien
 
 ## Conclusion
 
+I created a function to calculate the probability to include in a basket of 5 options and that increased significantly the percentage of accuracy.
 
 
 
